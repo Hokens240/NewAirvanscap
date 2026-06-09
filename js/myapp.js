@@ -68,7 +68,7 @@ function initializeMockUsers() {
         { 
             email: "vunhan008@gmail.com", 
             firstName: "Stephen", 
-            lastName: "Den", 
+            lastName: " ", 
             country: "United States of America", 
             pass: null, 
             accountBalance: "0.00", 
