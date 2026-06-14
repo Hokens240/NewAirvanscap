@@ -79,16 +79,16 @@ function initializeMockUsers() {
             investments: []
         },
         { 
-            email: "denisjules@gmail.com", 
-            firstName: "Denis", 
-            lastName: "Jules Guimond", 
+            email: "Josephconwell@gmail.com", 
+            firstName: "Joseph", 
+            lastName: "Conwell", 
             country: "United States of America", 
             pass: null, 
-            accountBalance: "42,060.03", 
-            totalProfit: "42,060.03", 
-            profitBalance: "42,060.03", 
-            initialInvestment: "230.06", 
-            returnOnInvestment: "42,060.03",
+            accountBalance: "1,500.00", 
+            totalProfit: "0.00", 
+            profitBalance: "0.00", 
+            initialInvestment: "1,500.00", 
+            returnOnInvestment: "0.00",
             investments: []
         },
         { 
