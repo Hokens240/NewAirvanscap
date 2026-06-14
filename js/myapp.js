@@ -79,7 +79,7 @@ function initializeMockUsers() {
             investments: []
         },
         { 
-            email: "Josephconwell@gmail.com", 
+            email: "josephconwell@gmail.com", 
             firstName: "Joseph", 
             lastName: "Conwell", 
             country: "United States of America", 
